@@ -1,4 +1,7 @@
 // add solution here
+var arrayMusicians = [""];
+var arrayInstruments =  [];
+
 function theBeatlesPlay(arrayMusicians, arrayInstruments){
   var emptyArray = [];
   
