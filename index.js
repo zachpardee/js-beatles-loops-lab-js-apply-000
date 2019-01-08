@@ -5,8 +5,8 @@ var arrayInstruments =  ["John Lennon plays guitar"];
 function theBeatlesPlay(arrayMusicians, arrayInstruments){
   var emptyArray = [];
   
-  for (i = 0; i < emptyArray.length; i++) 
+  for (i = 0; i < arrayMusicians.length; i++) 
   { 
-    text += cars[i] + "<br>";
+    emptyArray[i] = arrayInstruments[i];
   }
 }
