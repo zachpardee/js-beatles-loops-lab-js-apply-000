@@ -1,6 +1,6 @@
 // add solution here
-var arrayMusicians = ["John Lennon plays guitar"];
-var arrayInstruments =  ["John Lennon plays guitar"];
+const musicians = ["John Lennon", "Paul McCartney", "George Harrison", "Ringo Starr"];
+const instruments = ["Guitar", "Bass Guitar", "Lead Guitar", "Drums"];
 
 function theBeatlesPlay(arrayMusicians, arrayInstruments){
   var emptyArray = [];
